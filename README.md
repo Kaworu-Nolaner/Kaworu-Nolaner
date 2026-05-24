@@ -1,16 +1,18 @@
-## Hi there 👋
+I am a 17yo Ukrainian dev. I specialize in bridging the gap between hardware and software, with a heavy focus on Linux environments and networking infrastructure. 
 
-<!--
-**Kaworu-Nolaner/Kaworu-Nolaner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Now I'm doing
+*   **Systems Administration**
+*   **Hardware Repairment**
+*   **Web Development**
+### 💻 Tech Stack & Skills
+*   **OS:** Linux (Arch, DKMS, Kernel configuration)
+*   **Networking:** Routing, hardware deployment, network architecture
+*   **Development:** Web Design, Scripting, Rapid prototyping
+*   **Hardware:** Electronics assembly, soldering, custom modifications
 
-Here are some ideas to get you started:
+### 📫 How to reach me
+*   Email: dmytro.vasylenko.2f@gmail.com
+*   LinkedIn: [Link](https://www.linkedin.com/in/dmytro-vasylenko-b61454409)
+*   Telegram: [Link](t.me/Kaw8ru)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*"Power isn't determined by your size, but the size of your heart and dreams. -Monkey D. Luffy"*
