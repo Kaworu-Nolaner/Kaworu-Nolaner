@@ -13,6 +13,6 @@ I am a 17yo Ukrainian dev. I specialize in bridging the gap between hardware and
 ### 📫 How to reach me
 *   Email: dmytro.vasylenko.2f@gmail.com
 *   LinkedIn: [Link](https://www.linkedin.com/in/dmytro-vasylenko-b61454409)
-*   Telegram: [Link](t.me/Kaw8ru)
+*   Telegram: [Link](https://www.t.me/Kaw8ru)
 
 *"Power isn't determined by your size, but the size of your heart and dreams. -Monkey D. Luffy"*
